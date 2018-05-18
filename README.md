@@ -1,2 +1,2 @@
 # hello-world
-Big man rich
+Big man rich is a big man
